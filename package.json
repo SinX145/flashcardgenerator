@@ -1,0 +1,19 @@
+{
+  "name": "flashcardgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinX145/flashcardgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinX145/flashcardgenerator/issues"
+  },
+  "homepage": "https://github.com/SinX145/flashcardgenerator#readme"
+}

@@ -1,0 +1,25 @@
+[
+	{
+	
+	"front": "Obama was the 44th President of the United States",
+	"cloze": "Obama"
+},
+{ 
+	
+	"front": "George W. Bush was the 43rd President of the United States",
+	"cloze": "George W. Bush"
+},
+{ 
+	"front": "Hillary Clinton was the 45th President of the United States by popular vote",
+	"cloze":"Hillary Clinton"
+}, 
+{
+	"front": "Republicans is the party of the South",
+	"cloze": "Republicans"
+},
+{
+	
+	"front":"The NRA stands for National Rifle Association",
+	"cloze":"National Rifle Association"
+}
+]

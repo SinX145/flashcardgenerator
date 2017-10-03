@@ -1,0 +1,25 @@
+[
+	{
+	
+	"front": "Who was the 44th President of the United States",
+	"back": "Obama"
+},
+{ 
+	
+	"front": "Who was the 43rd President of the United States",
+	"back": "George W. Bush"
+},
+{ 
+	"front": "Who was the 45th President of the United States by popular vote",
+	"back":"Hillary Clinton"
+}, 
+{
+	"front": "What is the party of the South",
+	"back": "Republicans"
+},
+{
+	
+	"front":"What does the NRA stand for",
+	"back":"National Rifle Association"
+}
+]
